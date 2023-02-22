@@ -19,7 +19,7 @@ Sharp can also be built using command line.
 - [ ] Support for Unix based OS
 - [x] Support for Windows
 - [x] Support for TCP
-- [ ] Support for TCPS
+- [ ] Support for TCP/SSL
 - [ ] Support for HTTP
 - [ ] Support for HTTPS
 
